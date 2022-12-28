@@ -1,7 +1,7 @@
 Hi 👋 My name is Isaac Karanja Kimura
 =====================================
 
-Web Developer And SEO Expert
+Web Developer and SEO Expert
 ----------------------------
 
 Isaac is an innovative, task driven JavaScript Developer, and Search Engine Optimization expert with 6+ years of experience in web development & SEO.
